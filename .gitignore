@@ -21,4 +21,4 @@ yarn-error.log*
 *.sw*
 
 # Blog build directory
-/vuepress/.vuepress/dist
+/docs/.vuepress/dist

@@ -1,4 +1,4 @@
-# vuepress test
+# vuepress test 2
 - asdf
 - adsf
 - adsf
@@ -9,4 +9,4 @@
 haha
 :::
 
-[go to another page](./hello.md)
+[go to hello page](./hello.md)
