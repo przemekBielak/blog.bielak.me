@@ -1,0 +1,26 @@
+{
+  "name": "blog.bielak.me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "docs:dev": "vuepress dev vuepress",
+    "docs:build": "vuepress build vuepress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/przemekBielak/blog.bielak.me.git"
+  },
+  "author": "Przemyslaw Bielak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/przemekBielak/blog.bielak.me/issues"
+  },
+  "homepage": "https://github.com/przemekBielak/blog.bielak.me#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
